@@ -1,0 +1,23 @@
+# Maven
+target/
+*.class
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+*.iws
+
+# Environment
+.env
+.env.local
+
+# Build outputs
+dist/
+build/
