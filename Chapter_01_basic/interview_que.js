@@ -4,8 +4,8 @@
 null == 0;
 null == ""
 null == false
-undefine == 0
-undefine == ""
-undefine == false
-nan == nan;
+undefined == 0
+undefined == ""
+undefined == false
+NaN == NaN;
 
